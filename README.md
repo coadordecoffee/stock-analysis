@@ -1,2 +1,2 @@
 # stock-analysis
-Stock Analysis project in Java.
+Stock Analysis with file reading and min, max and mean aggregation project in Java.
